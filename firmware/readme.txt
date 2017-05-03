@@ -1,0 +1,1 @@
+The current printer runs on an MKS SBASE v1.3 smoothieboard clone. The software is based off of the rotary delta configuration in the smoothieware fork. The current version of our firmware is slightly modified for our printer's specs and geometry.
